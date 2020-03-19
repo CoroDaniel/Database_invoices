@@ -1,0 +1,7 @@
+Acesta este un proiect de tip database. 
+
+Reprezinta situatia unor facturi pentru diverse produse furnizate de diferiti parteneri (furnizori).
+
+Sunt create 6 tabele cu diferite atribute si chei primare.
+
+S-au creat diverse interogarii (Queries) pe baza datelor inregistrate.
